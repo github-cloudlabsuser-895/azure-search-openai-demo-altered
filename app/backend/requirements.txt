@@ -1,9 +1,38 @@
-Flask==2.2.5
-azure-identity==1.13.0
-langchain==0.0.187
-openai[datalib]==0.27.8
-tiktoken==0.4.0
-azure-search-documents==11.4.0b6
-azure-storage-blob==12.14.1
-pypdf==3.9.0
-azure-ai-formrecognizer==3.2.1
+# App Backend Requirements
+
+This document outlines the requirements for the `app/backend` directory.
+
+## Functional Requirements
+
+1. **Requirement 1**: Description of the requirement...
+2. **Requirement 2**: Description of the requirement...
+3. **Requirement 3**: Description of the requirement...
+
+## Non-Functional Requirements
+
+1. **Performance**: The backend should be able to handle X requests per second...
+2. **Security**: The backend should implement encryption for sensitive data...
+3. **Reliability**: The backend should have a uptime of X%...
+
+## System Requirements
+
+1. **Operating System**: The backend should be compatible with...
+2. **Database**: The backend should work with...
+3. **Server**: The backend should be deployable on...
+
+## Software Requirements
+
+1. **Language**: The backend is written in...
+2. **Framework**: The backend uses the... framework
+3. **Dependencies**: The backend requires the following packages...
+
+## Hardware Requirements
+
+1. **Processor**: The backend requires a... processor
+2. **Memory**: The backend requires... GB of RAM
+3. **Storage**: The backend requires... GB of storage
+
+## Network Requirements
+
+1. **Bandwidth**: The backend requires a minimum bandwidth of...
+2. **Latency**: The backend should have a maximum latency of...
